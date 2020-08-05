@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<a href="https://twitter.com/raggylugthumps?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">@raggylugthumps</a>
+<a href="https://twitter.com/raggylugthumps?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">@raggylugthumps</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 <!--
 **stevenbower/stevenbower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
